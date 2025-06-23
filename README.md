@@ -2,6 +2,14 @@
 
 BabySteps is a modern parenting companion that supports users through preconception and pregnancy. This feature module lets users log personal pregnancy milestones and engage with a supportive community by sharing and receiving helpful tips.
 
+### Live Links
+
+- Frontend (Vercel): https://babysteps-nine.vercel.app
+
+- Backend (Render): https://babysteps-rjfl.onrender.com
+
+- Source Code: https://github.com/AkibBagwan07/babysteps.git
+
 ### Features
  Track personal milestones (e.g., "First ultrasound", "Started prenatal vitamins")
 
@@ -25,8 +33,8 @@ Styling - Tailwind CSS
 
 ###  Installation & Running Locally
 
-git clone https://github.com/your-username/babysteps-milestone-tracker.git
-cd babysteps-milestone-tracker
+git clone https://github.com/AkibBagwan07/babysteps.git
+cd babysteps
 
 ### Backend Setup
 cd server
@@ -73,5 +81,7 @@ PUT /api/tips/:tipId/like – Like a tip
 - Tip upvotes/downvotes
 - Email-based authentication
 
-### This project is built for assessment purposes.
+### This project is developed as part of a fullstack assessment.
+
+
 
